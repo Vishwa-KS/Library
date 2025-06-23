@@ -107,9 +107,3 @@ A walkthrough of the application is available in `lib vid_compressed.mp4`.
 3. Make your changes and commit with descriptive messages.
 4. Open a pull request — include screenshots or details of your modifications.
 
----
-
-## **📝 License & Author**
-
-- **Author**: `veldark2005`
-- **License**: _(None specified — consider adding an open-source license)_
